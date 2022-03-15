@@ -16,7 +16,6 @@ Created with CodeSandbox
 - px이 줄어들어서 768이하(sm(스몰))일때는 6(hello1) 6(hello2) 으로 12컬럼(1줄), 12(hello3) 컬럼으로 1줄, 총 2줄을 차지하겠다는 소리.
 
 ![image](https://user-images.githubusercontent.com/37132897/158329382-e8ccb4bf-07b9-4e18-961e-86470185418f.png)
-
 - px이 더 줄어서 스몰보다 낮아진, 576이하가되면 하나의 블록으로만 되는것을 알 수 있다.
 
 다른 hello 에 대한 내용
