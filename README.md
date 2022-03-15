@@ -2,12 +2,13 @@
 Created with CodeSandbox
 
 - 반응형
-- col-md-6 col-sm-6 b
-- col-md-3 col-sm-6
-- col-md-3 col-sm-12 b
+
 
 ![image](https://user-images.githubusercontent.com/37132897/158329298-83d0883c-d419-4057-9dd8-8926e9007230.png)
 
+- col-md-6 col-sm-6 b
+- col-md-3 col-sm-6
+- col-md-3 col-sm-12 b
 - 이거는 처음에 md(미디엄)일때는 12개의 컬럼을, 1줄로 6(hello1) 3(hello2) 3(hello3) 으로 쓰다가, 
 
 ![image](https://user-images.githubusercontent.com/37132897/158329339-2786fc27-742c-4a8b-b70c-1f1e0268a08f.png)
