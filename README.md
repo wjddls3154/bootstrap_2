@@ -19,9 +19,13 @@ Created with CodeSandbox
 
 - px이 더 줄어서 스몰보다 낮아진, 576이하가되면 하나의 블록으로만 되는것을 알 수 있다.
 
+다른 hello 에 대한 내용
+
 - 다른 hello 4,5,6은 col-md-4 b, col-md-4 b, col-md-4 b 로 미디움사이즈일때 각각 4컬럼씩, 총 12컬럼 1줄을 차지하고,
 
 - hello 7은 col-md-4 offset-md-4 b, hello8이 col-md-4 로 8컬럼 4컬럼, 총 12컬럼을 차지하는데, offset이 4컬럼으로 젤 앞에꺼가 안보인다.  
+
+알게 된 부트스트랩 정보
 
 - Layout - Grid : 홈페이지 전체가 12개의 컬럼으로 구성되어있다는 것이 기본 개념.
 
