@@ -13,7 +13,7 @@ Created with CodeSandbox
 
 ![image](https://user-images.githubusercontent.com/37132897/158329339-2786fc27-742c-4a8b-b70c-1f1e0268a08f.png)
 
-- px이 줄어들어서 768이하(sm(스몰))일때는 6(hello1) 6(hello2) 으로 1줄, 12(hello3) 로 1줄 2줄을 차지하겠다는 소리.
+- px이 줄어들어서 768이하(sm(스몰))일때는 6(hello1) 6(hello2) 으로 12컬럼(1줄), 12(hello3) 컬럼으로 1줄, 총 2줄을 차지하겠다는 소리.
 
 ![image](https://user-images.githubusercontent.com/37132897/158329382-e8ccb4bf-07b9-4e18-961e-86470185418f.png)
 
