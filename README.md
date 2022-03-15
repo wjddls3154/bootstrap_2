@@ -5,6 +5,7 @@ Created with CodeSandbox
 - col-md-6 col-sm-6 b
 - col-md-3 col-sm-6
 - col-md-3 col-sm-12 b
+
 ![image](https://user-images.githubusercontent.com/37132897/158329298-83d0883c-d419-4057-9dd8-8926e9007230.png)
 
 - 이거는 처음에 md(미디엄)일때는 12개의 컬럼을, 1줄로 6 3 3 으로 쓰다가, 
