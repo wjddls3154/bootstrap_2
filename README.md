@@ -19,5 +19,16 @@ Created with CodeSandbox
 
 - px이 더 줄어서 스몰보다 낮아진, 576이하가되면 하나의 블록으로만 되는것을 알 수 있다.
 
+- 다른 hello 4,5,6은 col-md-4 b, col-md-4 b, col-md-4 b 로 미디움사이즈일때 각각 4컬럼씩, 총 12컬럼 1줄을 차지하고,
+
+- hello 7은 col-md-4 offset-md-4 b, hello8이 col-md-4 로 8컬럼 4컬럼, 총 12컬럼을 차지하는데, offset이 4컬럼으로 젤 앞에꺼가 안보인다.  
+
+- Layout - Grid : 홈페이지 전체가 12개의 컬럼으로 구성되어있다는 것이 기본 개념.
+
+- row에 12개 배정이 넘어가면, 자동으로 다음 row 에 표시가 된다.
+
+- 제일 앞칸을 비우고싶으면, offset-md-4 를 주면 4개의 블록을 비우게 된다.
+
+- container-fluid 하면 앞에 여백을 없애준다.
 
 
